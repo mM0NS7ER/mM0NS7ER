@@ -39,5 +39,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/mM0NS7ER)
 ### 交个朋友 👬🏻
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>一个男人和一个男孩最大的区别是，<b>一个真正的man，一个真正的男人他清楚自己要做什么，他清楚自己要往什么样的方向去努力</b>，也许是他的事业，也许是保护他的家人，也许是爱他的人。他让自己变强壮，让自己有能力，用各种各样的方式能够去保护别人，保护他自己的那颗心，自己喜欢的事业，自己喜欢的东西，我觉得这是一个真正的男人。我觉得一个男人不一定非得说拥有多么强壮的肌肉，如果你真的想要看这个人是一个男孩还是一个男人，<b>不要去看他的body，看他的心。 </b>  🧡</em>
 # mM0NS7ER
