@@ -2,7 +2,6 @@
 
 - 👨‍🎓我是一名学习python时长两年半的个人练习生，喜欢的话请多多为我点赞吧！🤞
 - 🏡 作品：正在开发
-- :pencil: 博客：[CSDN💬](https://blog.csdn.net/m0_50765373)、 - 新手上路，请多指教！
 
 
 ### ✨ 我的技能(my skills)   
@@ -26,12 +25,8 @@
 ### 开发的项目(developed projects)
 
 - 业务项目(business projects)
-  - [律友⚡](https://github.com/mM0NS7ER/lvyou)
+  - [law-chatbot🤖](https://github.com/mM0NS7ER/law-chatbot)
 
-
-
-- 组件项目(component projects)
-  - 正在开发中...
 
 
 ### 🎉 Get in touch
